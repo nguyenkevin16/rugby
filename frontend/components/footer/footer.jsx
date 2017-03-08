@@ -4,7 +4,6 @@ class Footer extends React.Component {
 
   componentDidMount() {
     const mapDOMnode = document.getElementById('maps');
-    console.log(mapDOMnode);
 
     const rugby = { lat: 36.991358, lng: -122.052097 };
 
