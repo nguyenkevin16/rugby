@@ -17,8 +17,12 @@ body, #root {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6, li, p {
-	font-family: $sans-serif;
-	font-weight: 200;
+h1, h2, h3 {
+	font-family: $big_font;
+	color: black;
+}
+
+h4, h5, h6, li, p {
+	font-family: $small_font;
 	color: black;
 }

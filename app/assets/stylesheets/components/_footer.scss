@@ -1,0 +1,18 @@
+@import '../base/colors.scss';
+@import '../base/fonts.scss';
+
+.footer {
+  background-color: $darkest-gray;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: 25%;
+
+  h1 {
+    font-family: $small_font;
+    color: white;
+  }
+}
