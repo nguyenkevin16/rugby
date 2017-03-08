@@ -1,0 +1,23 @@
+.navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 15%;
+}
+
+.masthead {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 100%;
+  width: 100%;
+
+  border-bottom: 1px solid grey;
+
+  h1 {
+    text-align: center;
+  }
+}
