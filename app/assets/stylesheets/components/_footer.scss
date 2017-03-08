@@ -5,7 +5,8 @@
   background-color: $darkest-gray;
 
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  justify-content: space-around;
   align-items: center;
 
   width: 100%;
@@ -15,4 +16,23 @@
     font-family: $small_font;
     color: white;
   }
+}
+
+.footer-maps {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+
+  li {
+    font-family: $small_font;
+    color: white;
+  }
+}
+
+#maps {
+  margin-right: 15px;
+  width: 150px;
+  height: 150px;
+  background-color: grey;
 }
