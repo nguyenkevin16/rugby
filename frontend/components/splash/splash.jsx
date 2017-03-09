@@ -25,9 +25,7 @@ class Splash extends React.Component {
 
             <iframe width="560"
               height="315"
-              src="https://www.youtube.com/embed/70EzH11X8cA"
-              frameborder="0"
-              allowfullscreen>
+              src="https://www.youtube.com/embed/70EzH11X8cA">
             </iframe>
           </div>
 
