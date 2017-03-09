@@ -9,7 +9,7 @@ class Splash extends React.Component {
 
         <div className='splash-news'>
           <div className='splash-welcome'>
-            <h1> Welcome to the homepage of the UCSC Rugby Football Club </h1>
+            <h1> Welcome to the home of Slug Rugby </h1>
             <p> This is the oldest club on campus, fielding the inaugural team in 1967.
               They were also the first team at UCSC to call themselves the “Slugs”. </p>
 
