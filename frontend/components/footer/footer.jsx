@@ -34,6 +34,11 @@ class Footer extends React.Component {
             <li> 1156 High Street </li>
             <li> Santa Cruz, CA 95060 </li>
           </ul>
+
+          <ul className='icons'>
+            <li><a href="#" className="icon style2 fa-twitter"><span className="label">Twitter</span></a></li>
+            <li><a href="#" className="icon style2 fa-facebook"><span className="label">Facebook</span></a></li>
+          </ul>
         </div>
       </div>
     );
