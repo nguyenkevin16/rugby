@@ -10,8 +10,18 @@ class Splash extends React.Component {
         <div className='splash-news'>
           <div className='splash-welcome'>
             <h1> Welcome to the home of Slug Rugby </h1>
-            <p> This is the oldest club on campus, fielding the inaugural team in 1967.
-              They were also the first team at UCSC to call themselves the “Slugs”. </p>
+
+            <p> Established in 1967, the team is the oldest organized sports
+              club on campus and the first to call themselves the "Slugs".
+            </p>
+
+            <p>
+              The team currently competes in the Pacific Western Rugby Conference.
+              The Conference is a Division 1 AA conference and competes
+              for the USA Rugby National Rugby Competition. Teams include:
+              Stanford, UC Davis, San Jose State, Fresno State, Chico State,
+              SF State, and UN Reno.
+            </p>
 
             <iframe width="560"
               height="315"
@@ -23,7 +33,7 @@ class Splash extends React.Component {
 
           <a className="twitter-timeline"
             data-width="600"
-            data-height="600"
+            data-height="900"
             data-theme="light"
             data-chrome="noheader nofooter"
             data-link-color="#FAB81E"
