@@ -2,7 +2,7 @@
 
 .splash {
   width: 100%;
-  height: 95%;
+  height: auto;
 
   img {
     border-bottom: 1px solid black;
@@ -11,4 +11,9 @@
 
 .splash-news {
   width: 100%;
+  height: 700px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
