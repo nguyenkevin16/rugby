@@ -31,9 +31,16 @@
   border-right: 1px solid $light-gray;
 
   h1, p {
-    width: 80%;
+    width: 75%;
     margin: 10px 0;
     font-family: $small_font;
+  }
+
+  iframe {
+    width: 65%;
+    height: 65%;
+    margin: 10px 0;
+    border: 1px solid $light-gray;
   }
 
   h1 {

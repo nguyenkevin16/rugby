@@ -12,6 +12,13 @@ class Splash extends React.Component {
             <h1> Welcome to the homepage of the UCSC Rugby Football Club </h1>
             <p> This is the oldest club on campus, fielding the inaugural team in 1967.
               They were also the first team at UCSC to call themselves the “Slugs”. </p>
+
+            <iframe width="560"
+              height="315"
+              src="https://www.youtube.com/embed/70EzH11X8cA"
+              frameborder="0"
+              allowfullscreen>
+            </iframe>
           </div>
 
           <a className="twitter-timeline"
