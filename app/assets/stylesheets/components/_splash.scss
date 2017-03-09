@@ -1,4 +1,5 @@
 @import '../base/colors.scss';
+@import '../base/fonts.scss';
 
 .splash {
   width: 100%;
@@ -16,4 +17,31 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.splash-welcome {
+  width: 75%;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  border-right: 1px solid $light-gray;
+
+  h1, p {
+    width: 80%;
+    margin: 10px 0;
+    font-family: $small_font;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 25px;
+  }
+
+  p {
+    font-size: 18px;
+  }
 }
