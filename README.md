@@ -6,4 +6,4 @@ the current template site hosted at [ucscrugby.com](ucscrugby.com).
 
 [rugby]: http://ucsc-rugby.herokuapp.com/#/
 
-![main-sceenshot](./docs/images/rugby-main.png)
+![main-sceenshot](./docs/rugby-main.png)
